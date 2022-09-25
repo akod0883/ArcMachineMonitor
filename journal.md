@@ -1,3 +1,4 @@
+# akhilvk2 journal entries
 # 9 - 15 - 2022
 Today the group finished up writing the proposal for our [project](https://github.com/akod0883/ArcMachineMonitor/blob/main/proposal.pdf).
 
